@@ -1,3 +1,8 @@
+Very late submission for Assignment1 I could really do the front end. But in the email she said it's ok, If I just did the back end.
+I had some problems with integration, I kept on getting Nullpointerexpection
+So I reverted to my old SpamDetector class. Just run the SpamDetector class and you should see precision and accuracy for each testfile. 
+
+
 # Assignment 01 - Spam Detector (Instructions)
 CSCI 2020U: Software Systems Development and Integration
 
